@@ -1,13 +1,11 @@
-# Moldy Mangoes
-
-## ICS 414 Fall 2022 Team 3
+# ICS414 F22 Team 3 "Moldy Mangoes"
 
 ## Table of Contents
 
 * [Team Members](#team-members)
 * [Contract](#contract)
 
-### Team Members:
+## Team Members:
 
 Trevor Kansaki,
 Kirsten-Elise Rensaa,
@@ -20,5 +18,5 @@ Charlie Robison,
 Ryan Fitzpatrick,
 Gunwook Baik.
 
-### Contract:
+## Contract:
 Our contract can be found [here](https://docs.google.com/document/d/1LmFmwsgEDfUC2oPU8WfnxhdM-HfBvE7AS4HScb7kDkc/edit?usp=sharing).
