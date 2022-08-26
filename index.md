@@ -1,4 +1,4 @@
-# ICS414 F22 Team 3 "Moldy Mangoes"
+# ICS414 F22 Team 3 "hi-doe-tracker"
 
 ## Table of Contents
 
