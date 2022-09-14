@@ -4,6 +4,27 @@
 
 * [Team Members](#team-members)
 * [Contract](#contract)
+* [Mockup Pages](#mockup-pages)
+
+## Mockup Pages
+
+### Landing Page
+
+### Login Page
+
+### Home Page
+
+### View Bills Page
+
+### View Bill Page
+
+### Send Hearing Notice Page
+
+### Submit Testimony Page
+
+### Review and approval workflow for testimonies
+
+### Profile Page
 
 ## Team Members:
 
