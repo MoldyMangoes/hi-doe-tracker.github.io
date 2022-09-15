@@ -13,6 +13,7 @@
 <img class="ui large image" src="images/landing.png">
 
 ### Home Page
+<img class="ui large image" src="images/Home.png">
 
 ### View Bills Page
 <img class="ui large image" src="images/ViewBills.png">
@@ -21,14 +22,13 @@
 <img class="ui large image" src="images/Search.gif">
 
 ### View Bill Page
+<img class="ui large image" src="images/Bill.png">
 
 ### Send Hearing Notice Page
 <img class="ui large image" src="images/HearingNotice.png">
 
 ### Submit Testimony Page
 <img class="ui large image" src="images/SubmitTestimony.png">
-
-### Review and approval workflow for testimonies
 
 ### Profile Page
 <img class="ui large image" src="images/Profile.png">
