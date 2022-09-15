@@ -18,7 +18,7 @@
 <img class="ui large image" src="images/ViewBills.png">
 
 ### Search
-<img class="ui large image" src="images/ViewBills.gif">
+<img class="ui large image" src="images/Search.gif">
 
 ### View Bill Page
 
