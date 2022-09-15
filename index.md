@@ -9,6 +9,7 @@
 ## Mockup Pages
 
 ### Landing Page
+<img class="ui large image" src="images/landing.png">
 
 ### Login Page
 
