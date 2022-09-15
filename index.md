@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+* [Mockup Pages](#mockup-pages)
 * [Team Members](#team-members)
 * [Contract](#contract)
-* [Mockup Pages](#mockup-pages)
 
 ## Mockup Pages
 
@@ -26,6 +26,11 @@
 ### Review and approval workflow for testimonies
 
 ### Profile Page
+
+## Continuous Intergration
+HI-DOE-Tracker uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the main branch. You can see the results of all recent “workflows” at [https://github.com/hi-doe-tracker/hi-doe-tracker/actions](https://github.com/hi-doe-tracker/hi-doe-tracker/actions).
+
+![ci-badge](https://github.com/hi-doe-tracker/hi-doe-tracker/actions/workflows/ci.yml/badge.svg)
 
 ## Team Members:
 
