@@ -44,7 +44,7 @@ HI-DOE-Tracker uses GitHub Actions to automatically run ESLint and TestCafe each
 - Kirsten-Elise Rensaa
 - Bhavanika Yadav
 - Ujjwal Gautam
-= Gaila Feliza Mae Galano
+- Gaila Feliza Mae Galano
 - Alvin Jeremy Edrada
 - Tanner Young
 - Charlie Robison
