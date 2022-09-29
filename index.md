@@ -24,6 +24,12 @@
 ### View Bill Page
 <img class="ui large image" src="images/Bill.png">
 
+### Assign Bill Page
+<img class="ui large image" src="images/assignbill.png">
+
+### Hearings Page
+<img class="ui large image" src="images/hearingspage.png">
+
 ### Send Hearing Notice Page
 <img class="ui large image" src="images/HearingNotice.png">
 
@@ -32,6 +38,12 @@
 
 ### Profile Page
 <img class="ui large image" src="images/Profile.png">
+
+### Create Account Page
+<img class="ui large image" src="images/createaccount.png">
+
+### Manage Accounts Page
+<img class="ui large image" src="images/manageaccount.png">
 
 ## Continuous Intergration
 HI-DOE-Tracker uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the main branch. You can see the results of all recent “workflows” at [https://github.com/hi-doe-tracker/hi-doe-tracker/actions](https://github.com/hi-doe-tracker/hi-doe-tracker/actions).
