@@ -2,10 +2,27 @@
 
 ## Table of Contents
 
-* [Mockup Pages](#mockup-pages)
-* [Continuous Intergration](#continuous-intergration)
 * [Team Members](#team-members)
 * [Contract](#contract)
+* [Mockup Pages](#mockup-pages)
+* [Continuous Intergration](#continuous-intergration)
+* [Link To Deployed App](#link-to-deployed-app)
+
+## Team Members:
+
+- Charlie Robison
+- Trevor Kansaki
+- Kirsten-Elise Rensaa
+- Bhavanika Yadav
+- Ujjwal Gautam
+- Gaila Feliza Mae Galano
+- Alvin Jeremy Edrada
+- Tanner Young
+- Ryan Fitzpatrick
+- Gunwook Baik
+
+## Contract:
+Our contract can be found [here](https://docs.google.com/document/d/1LmFmwsgEDfUC2oPU8WfnxhdM-HfBvE7AS4HScb7kDkc/edit?usp=sharing).
 
 ## Mockup Pages
 
@@ -56,18 +73,5 @@ HI-DOE-Tracker uses GitHub Actions to automatically run ESLint and TestCafe each
 
 ![ci-badge](https://github.com/hi-doe-tracker/hi-doe-tracker/actions/workflows/ci.yml/badge.svg)
 
-## Team Members:
-
-- Trevor Kansaki
-- Kirsten-Elise Rensaa
-- Bhavanika Yadav
-- Ujjwal Gautam
-- Gaila Feliza Mae Galano
-- Alvin Jeremy Edrada
-- Tanner Young
-- Charlie Robison
-- Ryan Fitzpatrick
-- Gunwook Baik
-
-## Contract:
-Our contract can be found [here](https://docs.google.com/document/d/1LmFmwsgEDfUC2oPU8WfnxhdM-HfBvE7AS4HScb7kDkc/edit?usp=sharing).
+## Link To Deployed App:
+[Deployed App](https://hidoetracker.lol/)
