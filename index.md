@@ -6,7 +6,6 @@
 * [Contract](#contract)
 * [Mockup Pages](#mockup-pages)
 * [Continuous Intergration](#continuous-intergration)
-* [Link To Deployed App](#link-to-deployed-app)
 
 ## Team Members:
 
@@ -72,6 +71,3 @@ Our contract can be found [here](https://docs.google.com/document/d/1LmFmwsgEDfU
 HI-DOE-Tracker uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the main branch. You can see the results of all recent “workflows” at [https://github.com/hi-doe-tracker/hi-doe-tracker/actions](https://github.com/hi-doe-tracker/hi-doe-tracker/actions).
 
 ![ci-badge](https://github.com/hi-doe-tracker/hi-doe-tracker/actions/workflows/ci.yml/badge.svg)
-
-## Link To Deployed App:
-[Deployed App](https://hidoetracker.lol/)
